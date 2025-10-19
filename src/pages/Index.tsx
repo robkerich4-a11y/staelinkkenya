@@ -12,11 +12,11 @@ const Index = () => {
   } | null>(null);
 
   const packages = [
-    { duration: "1 Day", data: "7GB", price: "79" },
-    { duration: "7 Days", data: "12GB", price: "99" },
-    { duration: "15 Days", data: "25GB", price: "150" },
-    { duration: "21 Days", data: "45GB", price: "225" },
-    { duration: "30 Days", data: "Unlimited", price: "299", featured: true },
+    { duration: "1 Day", data: "7GB", price: "49" },
+    { duration: "7 Days", data: "12GB", price: "79" },
+    { duration: "15 Days", data: "25GB", price: "99" },
+    { duration: "21 Days", data: "45GB", price: "150" },
+    { duration: "30 Days", data: "Unlimited", price: "250", featured: true },
   ];
 
   const features = [
